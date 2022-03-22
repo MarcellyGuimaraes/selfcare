@@ -1,0 +1,33 @@
+.header {
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu {
+    padding: 1rem 0;
+}
+
+.logoImg {
+    margin-right: 0.3rem;
+}
+
+.icon {
+    margin-right: 1.4rem;
+  }
+  
+  
+  .icon:last-child {
+    margin-right: 0;
+  }
+  
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon:last-child {
+    margin-right: 0;
+}
