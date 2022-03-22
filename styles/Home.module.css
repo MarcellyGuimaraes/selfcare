@@ -1,5 +1,15 @@
 .header {
   padding: 0 1.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  padding: 1rem 0;
+}
+
+.icon {
+  margin-right: 0.7rem;
 }
 
 .banner {
