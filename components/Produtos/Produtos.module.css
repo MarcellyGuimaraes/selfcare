@@ -1,0 +1,18 @@
+.container {
+    display: grid;
+    padding: 1rem 2rem;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 25% 25% 25% 25%;
+    column-gap: 25px;
+    row-gap: 150px;
+}
+
+.img {
+    width: 24rem;
+    height: 24rem;
+}
+
+.price_color {
+    color: #5CA720;
+    font-weight: 700;
+}

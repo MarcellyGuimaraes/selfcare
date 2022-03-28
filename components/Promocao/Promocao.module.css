@@ -1,0 +1,28 @@
+.banner {
+    background: url('../../public/assets/banner.png') center center repeat;
+    height: 20rem;
+}
+
+.promocao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+    border-bottom: 0.2px solid #A5A1A1;
+}
+
+.title {
+    font-size: 1.3rem;
+    font-weight: 700 bold;
+}
+
+@media  screen and (max-width: 768px){
+    .banner {
+        padding: 12rem;
+        background-repeat:initial;
+    }
+
+    .promocao {
+        border-bottom: none;
+    }
+}
