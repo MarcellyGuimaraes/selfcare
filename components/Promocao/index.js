@@ -9,7 +9,7 @@ const Promocao = () => {
             </div>
             <div className={styles.promocao}>
                 <p className={styles.title}>PROMOÇÃO</p>
-                <p> 9 Produtos</p>
+                <p>8 Produtos</p>
             </div>
         </div>
     )
