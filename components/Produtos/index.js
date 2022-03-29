@@ -51,12 +51,6 @@ const Produtos = () => {
             src: "/assets/img8.jpg",
             alt: "Produto 8"
         },
-        {
-            id: 9,
-            name: 'produto 9',
-            src: "/assets/img9.jpg",
-            alt: "Produto 9"
-        },
 
     ]
 
