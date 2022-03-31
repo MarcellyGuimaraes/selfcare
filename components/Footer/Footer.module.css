@@ -1,0 +1,79 @@
+.container {
+    background: #F9F9F9;
+    border-top: 0.2px solid #e4e2e2;
+}
+
+.contato {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1rem 2rem;
+    border-bottom: 0.2px solid #e4e2e2;
+}
+
+.redesSociais {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    line-height: 1.9rem;
+}
+
+.inputText {
+    padding-top: 1rem;
+}
+
+.text {
+    height: 2rem;
+    width: 16rem;
+    padding-left: 0.7rem;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px 0 0 5px;
+}
+
+.button {
+    height: 2rem;
+    width: 7rem;
+    border-radius: 0 5px 5px 0;
+    border: none;
+    background-color: #5CA720;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.icon {
+    margin-right: 0.5rem;
+}
+
+/* @media screen and (max-width: 425px){
+    .contato {
+        display: inline;
+        border: none;
+    }
+    .menu {
+        padding: 0 1rem 3rem;
+    }
+
+    .input {
+        padding: 0 1rem;
+    }
+
+    .button {
+        width: 100%;
+        border-radius: 5px;
+    }
+
+    .text {
+        width: 100%;
+        border-radius: 5px;
+    }
+
+    .inputText {
+        padding-bottom: 0.5rem;
+    }
+} */

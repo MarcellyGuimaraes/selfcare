@@ -15,13 +15,11 @@
 
 .icon {
     margin-right: 1.4rem;
-  }
-  
-  
-  .icon:last-child {
+}
+
+.icon:last-child {
     margin-right: 0;
-  }
-  
+}
 
 .logo {
     display: flex;
