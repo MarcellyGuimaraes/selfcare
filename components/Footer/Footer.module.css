@@ -31,7 +31,7 @@
 .text {
     height: 2rem;
     width: 16rem;
-    padding-left: 0.7rem;
+    padding-left: 1rem;
     border: 1px solid #e0e0e0;
     border-radius: 5px 0 0 5px;
 }
@@ -50,7 +50,7 @@
     margin-right: 0.5rem;
 }
 
-/* @media screen and (max-width: 425px){
+    @media screen and (max-width: 425px){
     .contato {
         display: inline;
         border: none;
@@ -74,6 +74,5 @@
     }
 
     .inputText {
-        padding-bottom: 0.5rem;
     }
-} */
+} 

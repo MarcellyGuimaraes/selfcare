@@ -18,8 +18,8 @@ const Footer = () => {
                     <label htmlFor="1" className={styles.title}>Newsletter</label>
                     <div className={styles.inputText}>
                         <input type="text" className={styles.text} id="1" placeholder="Digite seu melhor e-mail" />
+                        <button className={styles.button}>Inscrever</button>
                     </div>
-                    <button className={styles.button}>Inscrever</button>
                 </div>
             </div>
 
