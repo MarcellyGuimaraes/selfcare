@@ -1,3 +1,4 @@
+import Head from 'next/head'
 import { AiFillStar, AiOutlineSearch, AiOutlineUser } from 'react-icons/ai'
 import { BsCart2 } from 'react-icons/bs'
 import styles from './Header.module.css'
@@ -5,6 +6,9 @@ import styles from './Header.module.css'
 const Header = () => {
     return (
         <div>
+            <Head>
+                <title>SelfCare - Isis Marcelly</title>
+            </Head>
             <header className={styles.header}>
                 <div className={styles.logo}>
                     <AiFillStar size="1.3rem" className={styles.logoImg} />
